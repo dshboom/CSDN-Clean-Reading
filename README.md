@@ -14,8 +14,5 @@ CSDN-Clean-Reading是一个用户脚本（*Tampermonkey脚本*），通过移除
 
 通过CSDN-Clean-Reading，您可以在CSDN上享受一个清爽、无干扰的阅读体验，让您专注于最重要的内容。
 
-<<<<<<< HEAD
 注意：此脚本需要类似Tampermonkey的浏览器扩展程序来运行。
 =======
-注意：此脚本需要类似Tampermonkey的浏览器扩展程序来运行。
->>>>>>> 52b9e73 (V1.2)
